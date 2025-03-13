@@ -14,6 +14,8 @@ The project consists of the following key steps:
 6. Stakeholder Feedback & Iteration – Refining the dashboard based on real-life scenarios.
 7. Automated Monthly Insights – Sending email reports to stakeholders.
 
+(here I've used Data from codebasics)
+
 ## End Product
 The final deliverable will be a Power BI dashboard that provides insights such as:
 - Revenue Trends – Tracking overall revenue performance.
