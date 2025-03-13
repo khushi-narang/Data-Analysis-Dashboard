@@ -47,9 +47,4 @@ The Sales Director faces difficulties in tracking revenue trends due to receivin
 
 This project aims to bridge the gap between raw data and actionable insights, helping corporate leaders make informed decisions efficiently.
 
-### References
 
-Power Bi [https://www.microsoft.com/en-us/power-platform/products/power-bi](url)
-codebasics [https://www.youtube.com/@codebasics](url)
-MySQL [https://www.mysql.com/](url)
-Python [https://www.python.org/](url)
