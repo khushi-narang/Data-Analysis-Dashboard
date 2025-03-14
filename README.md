@@ -1,5 +1,7 @@
 # Data-Analysis-Dashboard
 # Real-Life Data Analysis in Corporate Environments
+![image](https://github.com/user-attachments/assets/9b4c5402-9d50-4723-a784-f7b20b35228b)
+
 
 ## Project Overview
 This project focuses on implementing real-life data analysis techniques in corporate settings. The goal is to transform raw data into meaningful insights using Power BI dashboards, enabling data-driven decision-making.
