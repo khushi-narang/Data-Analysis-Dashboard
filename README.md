@@ -1,6 +1,6 @@
 # Data-Analysis-Dashboard
 # Real-Life Data Analysis in Corporate Environments
-![image](https://github.com/user-attachments/assets/9b4c5402-9d50-4723-a784-f7b20b35228b)
+![Video Preview](https://github.com/khushi-narang/Data-Analysis-Dashboard/blob/main/Recording%202025-03-19%20205433.gif)
 
 
 ## Project Overview
